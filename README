@@ -1,0 +1,4 @@
+updateMaven
+===========
+
+A simple script to check which maven package needs to be updated.
